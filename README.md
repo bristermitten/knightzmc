@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [PDM](https://github.com/knightzmc/pdm) and [Elara](https://github.com/ElaraLang/elara-rewrite)
 
-- 🌱 I’m currently learning Clojure, more about writing code for an audience, and anything else I find interesting!
+- 🌱 I’m currently learning Clojure, Go, how to make well deisgned APIs, and anything else I find interesting!
 
 - 📫 How to reach me
   * **Discord**: Brister Mitten#1024 (in case my Nitro expires, my ID is 266973575225933824!)
