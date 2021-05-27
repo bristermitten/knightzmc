@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knightzmc" alt="knightzmc" /> </p>
 
-- 🔭 I’m currently working on [PDM](https://github.com/knightzmc/pdm) and [Elara](https://github.com/ElaraLang/elara-rewrite)
+- 🔭 I’m currently working on [DevDenBot](https://github.com/TheDeveloperDen/DevDenBot) and [Elara](https://github.com/ElaraLang/elara-rewrite)
 
 - 🌱 I’m currently learning Haskell, F#, and more about functional programming!
 
