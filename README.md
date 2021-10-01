@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Haskell, F#, and more about functional programming!
 
 - 📫 How to reach me
-  * **Discord**: Brister Mitten#1024 (in case my Nitro expires, my ID is 266973575225933824!)
+  * **Discord**: Brister Mitten#1024 (in case my Nitro expires, my ID is 266973575225933824 and I can be found in my Discord Server!)
   * **My website**: https://bristermitten.me
   * **My discord server**: https://developerden.net/discord
 
