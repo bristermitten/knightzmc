@@ -10,7 +10,7 @@
 - 📫 How to reach me
   * **Discord**: Brister Mitten#1024 (in case my Nitro expires, my ID is 266973575225933824!)
   * **My website**: https://bristermitten.me
-  * **My discord server**: https://discord.gg/hrtMPKt
+  * **My discord server**: https://developerden.net/discord
 
 <h3> Some Stats </h3>
 
