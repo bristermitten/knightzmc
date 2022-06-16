@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knightzmc" alt="knightzmc" /> </p>
 
-- 🔭 I’m currently working on [DevDenBot](https://github.com/TheDeveloperDen/DevDenBot) and [Elara](https://github.com/ElaraLang/elara-rewrite)
+- 🔭 I’m currently working [Elara](https://github.com/ElaraLang/elara-rewrite), exams, and commissions
 
 - 🌱 I’m currently learning Haskell, F#, and more about functional programming!
 
@@ -13,6 +13,7 @@
   * **My discord server**: https://developerden.net/discord
 
 <h3> Some Stats </h3>
+<figure><embed src="https://wakatime.com/share/@511a2cb2-7c10-49fe-b4c4-ac360bc625ee/0bce5c1e-21ef-46c9-bbd4-2898e8706567.svg"></embed></figure>
 
 <img src="https://github-profile-trophy.vercel.app/?username=knightzmc&theme=onedark" />
 
