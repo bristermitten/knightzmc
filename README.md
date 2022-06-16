@@ -13,7 +13,7 @@
   * **My discord server**: https://developerden.net/discord
 
 <h3> Some Stats </h3>
-<figure><embed src="https://wakatime.com/share/@511a2cb2-7c10-49fe-b4c4-ac360bc625ee/0bce5c1e-21ef-46c9-bbd4-2898e8706567.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@511a2cb2-7c10-49fe-b4c4-ac360bc625ee/987a3ff8-8a29-4cc1-8a1c-0bbf1c460a4a.svg"></embed></figure>
 
 <img src="https://github-profile-trophy.vercel.app/?username=knightzmc&theme=onedark" />
 
