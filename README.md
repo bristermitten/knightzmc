@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Elara](https://github.com/ElaraLang/elara), and commissions
 
-- 🌱 I’m currently learning Haskell, F#, and more about functional programming!
+- 🌱 I’m currently learning advanced Haskell!
 
 - 📫 How to reach me
   * **Discord**: Brister Mitten#1024 (in case my Nitro expires, my ID is 266973575225933824 and I can be found in my Discord Server!)
