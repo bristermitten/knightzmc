@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Alex</h1>
-<h3 align="center">I'm a Self Taught Java and Kotlin Developer specialising in the Spigot Framework</h3>
+<h3 align="center">I'm a Self Taught Java and Kotlin Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knightzmc" alt="knightzmc" /> </p>
 
