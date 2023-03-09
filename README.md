@@ -1,14 +1,11 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">I'm A Self Taught Java and Kotlin Developer specialising in the Spigot Framework</h3>
+<h1 align="center">👋 Hi, I'm Alex</h1>
+<h3 align="center">I'm a Self Taught Java and Kotlin Developer specialising in the Spigot Framework</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knightzmc" alt="knightzmc" /> </p>
 
-- 🔭 I’m currently working on [Elara](https://github.com/ElaraLang/elara), and commissions
 
-- 🌱 I’m currently learning advanced Haskell!
-
-- 📫 How to reach me
-  * **Discord**: Brister Mitten#1024 (in case my Nitro expires, my ID is 266973575225933824 and I can be found in my Discord Server!)
+- 📫 Contact Info
+  * **Discord**: Brister Mitten#8871 (ID: 266973575225933824)
   * **My website**: https://bristermitten.me
   * **My discord server**: https://developerden.net/discord
 
